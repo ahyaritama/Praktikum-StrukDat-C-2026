@@ -1,3 +1,3 @@
 print("Hello World")
-print("Riyanda Ahyaritama")
-print("25071102794")
+print("Nama : Riyanda Ahyaritama")
+print("NIM  : 25071102794")
